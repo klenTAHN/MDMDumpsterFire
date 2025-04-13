@@ -1,5 +1,5 @@
 #################################################################################
-######Intune Maintenance Administration Script for Azure Automation Runbook######
+######Intune Maintenance Administration Script                             ######
 #################################################################################
 ###### By: Clinton Sizemore                                                ######
 ###### Requires Microsoft.Graph.Authentication, Microsoft.Graph.Devicemanagement#
